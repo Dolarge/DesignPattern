@@ -1,5 +1,5 @@
-추상 팩토리
-Builder
+추상 팩토리 - 구체적인 클래스를 명시하지 않고도 연관되어 있거나 의존적인 객체 패밀리 생성을 위한 인터페이스 제공
+Builder - 생성자를 더 쉽고 가독성이 높게 생성할 수 있도로 고안된 패턴.
 Factory Method
 Prototype
 Singleton
